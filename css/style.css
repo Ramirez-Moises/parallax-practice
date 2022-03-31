@@ -1,0 +1,23 @@
+.hero {
+    background-image: url(../img/kingdom-bojji.jpg);
+}
+
+.b1 {
+    background-image: url(../img/woods-bojji.jpg);
+}
+
+.b2 {
+    background-image: url(../img/field-bojji.jpg);
+}
+
+.b3 {
+    background-image: url(../img/evening-bojji.png);
+}
+
+.b4 {
+    background-image: url(../img/sleeping-bojji.jpg);
+}
+
+.blkbox {
+    background-color: rgba(0,0,0,0.6);
+}
